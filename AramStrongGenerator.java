@@ -1,6 +1,6 @@
 package Programs;
 
-public class AramStrongGenerator {
+public class armstrongGenerator {
     public static int noOfDigits(int Number) {
         int count  = 0;
         if(Number==0){
